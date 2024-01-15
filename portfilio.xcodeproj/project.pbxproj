@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A9EB3AF2B547D3800AEF742 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A9EB3AE2B547D3800AEF742 /* DetailViewController.swift */; };
+		9A9EB3B12B547D4600AEF742 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A9EB3B02B547D4600AEF742 /* AddViewController.swift */; };
 		9AA52EBD2B547708006E9F93 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA52EBC2B547708006E9F93 /* AppDelegate.swift */; };
 		9AA52EBF2B547708006E9F93 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA52EBE2B547708006E9F93 /* SceneDelegate.swift */; };
 		9AA52EC12B547708006E9F93 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA52EC02B547708006E9F93 /* ViewController.swift */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A9EB3AE2B547D3800AEF742 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		9A9EB3B02B547D4600AEF742 /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 		9AA52EB92B547708006E9F93 /* portfilio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = portfilio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AA52EBC2B547708006E9F93 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9AA52EBE2B547708006E9F93 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +70,8 @@
 				9AA52ECA2B547709006E9F93 /* LaunchScreen.storyboard */,
 				9AA52ECD2B547709006E9F93 /* Info.plist */,
 				9AA52EC52B547708006E9F93 /* portfilio.xcdatamodeld */,
+				9A9EB3AE2B547D3800AEF742 /* DetailViewController.swift */,
+				9A9EB3B02B547D4600AEF742 /* AddViewController.swift */,
 			);
 			path = portfilio;
 			sourceTree = "<group>";
@@ -143,6 +149,8 @@
 			files = (
 				9AA52EC12B547708006E9F93 /* ViewController.swift in Sources */,
 				9AA52EBD2B547708006E9F93 /* AppDelegate.swift in Sources */,
+				9A9EB3B12B547D4600AEF742 /* AddViewController.swift in Sources */,
+				9A9EB3AF2B547D3800AEF742 /* DetailViewController.swift in Sources */,
 				9AA52EC72B547708006E9F93 /* portfilio.xcdatamodeld in Sources */,
 				9AA52EBF2B547708006E9F93 /* SceneDelegate.swift in Sources */,
 			);
